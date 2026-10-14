@@ -10,6 +10,7 @@ Dibuat sebagai situs statis (HTML, CSS, JavaScript) untuk tugas mata kuliah Data
 | `index.html` | Struktur halaman dan data anggota          |
 | `style.css`  | Tema terminal hijau, grid bento, responsif |
 | `script.js`  | Animasi fade-in saat scroll                |
+| `assets/`    | Foto anggota (rasio 3:4, dari CV)          |
 
 ## Anggota
 
